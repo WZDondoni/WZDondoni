@@ -5,9 +5,12 @@
 - 👯 I’m looking to collaborate on where my little knowledge adds to something :raising_hand_man:.
 - 🤔 I’m looking for help with how to add so much knowledge in a short time.
 - 💬 Ask me about Controller, administrative tenders and contracts an how City hall works.
-- 📫 How to reach me: 
-  :link:edin https://www.linkedin.com/in/adm-watiley-zanelato-dondoni-681584b7/
-  :envelope_with_arrow: adm.watileyzd@hotmail.com
+- 📫 How to reach me:  
+
+  :link:edin https://www.linkedin.com/in/adm-watiley-zanelato-dondoni-681584b7/  
+
+  :envelope_with_arrow: adm.watileyzd@hotmail.com  
+
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm funny being a not funny person :trollface:
 - :leo: :rainbow_flag: :video_game: :man_cook: :books: :wine_glass: :beach_umbrella:
