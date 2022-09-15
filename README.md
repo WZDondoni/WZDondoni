@@ -1,4 +1,4 @@
-### Buscando através da programação, se encontrar.
+#### Searching through the schedule, find yourself.
 
 - 🔭 I’m currently working on Controller, on City hall.
 - 🌱 I’m currently learning Git/GitHub, C# and Java.
