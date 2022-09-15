@@ -1,11 +1,5 @@
 ### Buscando através da programação, se encontrar.
 
-<!--
-**WZDondoni/WZDondoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-  
-  
 - 🔭 I’m currently working on Controller, on City hall.
 - 🌱 I’m currently learning Git/GitHub, C# and Java.
 - 👯 I’m looking to collaborate on where my little knowledge adds to something :raising_hand_man:.
@@ -18,5 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm funny being a not funny person :trollface:
 - :leo: :rainbow_flag: :video_game: :man_cook: :books: :wine_glass: :beach_umbrella:
   :cheese: :dove: :fist_raised: :family_man_woman_girl: :motor_scooter: :peanuts: 
+
+<!--
+**WZDondoni/WZDondoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 -->
