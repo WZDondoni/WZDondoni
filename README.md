@@ -1,10 +1,12 @@
 #### Searching through programming, to find myself again.
 
 - 🔭 I’m currently working on Controller, on City hall.
-- 🌱 I’m currently learning Git/GitHub, C# and Java.
+- 🌱 I’m currently learning:
+-    Git/GitHub, JavaScript, HTML, CSS, on Talento Cloud. This program is a partnership between [Meta](https://www.meta.com/) and [AWS](https://aws.amazon.com/pt/).
+-    Java/SpringBoot/DataBase and a real insight into the world of programming with the [DevDojo Academy](https://devdojo.academy/). 
 - 👯 I’m looking to collaborate on where my little knowledge adds to something :raising_hand_man:.
 - 🤔 I’m looking for help with how to add so much knowledge in a short time.
-- 💬 Ask me about Controller, administrative tenders and contracts an how City hall works.
+- 💬 Ask me about Controller, Publics Bid and Contracts an how City hall works.
 - 📫 How to reach me:  
 
   :link:edin https://www.linkedin.com/in/adm-watiley-zanelato-dondoni-681584b7/  
